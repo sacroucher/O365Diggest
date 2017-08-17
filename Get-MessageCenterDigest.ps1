@@ -21,9 +21,7 @@ Credentials to pass to New-SCSession. Requires that the Get-StoredCredential
 
 
 .NOTES
-Written by Scott Croucher
 
-Additional contributions:
 
 
 For more Office 365 tips, tutorials and news check out scottcroucher.com
@@ -37,7 +35,7 @@ License:
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Scott Croucher
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy 
 of this software and associated documentation files (the "Software"), to deal 

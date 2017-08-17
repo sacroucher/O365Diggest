@@ -11,13 +11,7 @@ on your admin workstation.
 
 
     
-.NOTES
-Written by: Scott Croucher
 
-
-
-* Website:	https://www.scottcroucher.com
-* Website: http://www.carnnell.co.uk
 #>
 
 
